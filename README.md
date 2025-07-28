@@ -1,4 +1,8 @@
 # jogo_do_numero_secreto
+@oraclenexteducation 
+@SouEstudanteEmFormacaoONEG8 
+@Alura 
+
 ## [link do jogo](https://adivinharnumero-blond.vercel.app/) 
 
 <div align="center">
